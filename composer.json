@@ -1,0 +1,21 @@
+{
+    "name": "superlyons/yii2-id-generator",
+    "description": "generator id, support Yii AR",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","snowflake","php"],
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "lyons",
+            "email": "superlyons@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "2.0.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "superlyons\\idGenerator\\": ""
+        }
+    }
+}

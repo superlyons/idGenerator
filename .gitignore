@@ -1,0 +1,5 @@
+outputfile
+composer.lock
+funtest.php
+mytest.php
+test*.php
